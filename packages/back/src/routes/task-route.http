@@ -1,0 +1,10 @@
+
+### 
+POST http://localhost:3000/task
+content-type: application/json
+
+{
+  "name": "tarefa 1",
+  "priority": 0,
+  "finishedAt": null
+}

@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "✨ poc-ts-tasks-paulinho-da-titia",
+			"path": "."
+		},
+		{
+			"name": "📦 task-back",
+			"path": "packages/back"
+		}
+	],
+	"settings": {}
+}

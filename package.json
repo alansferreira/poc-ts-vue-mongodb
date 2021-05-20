@@ -1,0 +1,14 @@
+{
+  "name": "poc-ts-tasks-paulinho-da-titia",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "workspaces": ["packages/back", "packages/front" ]
+}
